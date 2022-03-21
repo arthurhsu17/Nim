@@ -7,6 +7,9 @@ The only rule of the game is that each player must take at least one object from
 ## Gameplay
 <img width="227" alt="Screenshot 2022-03-21 at 2 34 32 PM" src="https://user-images.githubusercontent.com/71420919/159285370-14365ad9-74b9-4acb-8436-6c0f078b9e2a.png">
 
+The game is run by simply the 
+`nim` command by after running the program inside GHCI
+
 <img width="227" alt="Screenshot 2022-03-21 at 2 34 47 PM" src="https://user-images.githubusercontent.com/71420919/159285396-ce7e99a5-f648-4357-930b-837b1eedd828.png">
 
 <img width="205" alt="Screenshot 2022-03-21 at 2 35 05 PM" src="https://user-images.githubusercontent.com/71420919/159285421-05d1ff8c-72fe-48b1-9d15-ec7a2e200efd.png">
