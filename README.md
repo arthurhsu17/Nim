@@ -1,5 +1,5 @@
 # Nim
-Nim is a strategy game that involves two players that take turns removing objects from a pile
+Nim is a strategy game that involves two players that take turns removing objects from a pile, the aim of the game is to remove all the objects, the last person todo so is the winner! So simple!
 
 ## Rules
 The only rule of the game is that each player must take at least one object from the same pile, as many as they like, as long it is still available. E.g. if a row has 5 objects, the maxiumum you can take is 5 objects, if you try and take more an error will occur.
